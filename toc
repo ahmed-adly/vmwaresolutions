@@ -10,6 +10,7 @@ IBM Cloud for VMware Solutions
 
     {: .topicgroup}
     Release notes
+        vmonic/relnotes_v18.md
         vmonic/relnotes_v17.md
         vmonic/relnotes_v16.md
         vmonic/relnotes_v15.md
